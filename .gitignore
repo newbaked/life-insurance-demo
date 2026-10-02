@@ -1,0 +1,11 @@
+# Application exports can contain personal and medical information.
+pioneer-life-application-*.json
+
+# Source/reference documents are not part of the public demo site.
+BUSINESS_RULE_MAPPING.md
+business Rules and Updated PDF/
+sample print.pdf
+
+# Local operating-system files.
+Thumbs.db
+.DS_Store
